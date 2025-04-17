@@ -20,22 +20,5 @@
 5. **Copy or save your prompt** for future use.
 6. **Review prompt examples** by clicking the "Show Examples" button.
 
-## Contributing
 
-Contributions are welcome! If you have suggestions, feature requests, or bug fixes, feel free to open an issue or create a pull request.
-
-### Steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Push to your forked repository.
-5. Open a pull request with a detailed description of your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Thanks to the open-source community for their contributions and support.
+![Screenshot Description](images/your-screenshot.png)
